@@ -1,0 +1,5 @@
+---@class Class
+---@field name string
+---@field health number
+---@field initiative number
+---@field attack number
