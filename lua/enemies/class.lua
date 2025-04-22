@@ -1,0 +1,12 @@
+---@class Enemy
+---@field health number
+---@field name string
+---@field attack number
+---@field initiative number
+---@field boss boolean --true or false
+---@field spell Spell
+---
+---@class Spell
+---@field power number
+---@field type string
+---@field recharge number
