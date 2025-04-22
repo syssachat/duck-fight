@@ -4,7 +4,7 @@
 ---@field attack number
 ---@field initiative number
 ---@field boss boolean --true or false
----@field spell Spell
+---@field spell Spell?
 ---
 ---@class Spell
 ---@field power number
