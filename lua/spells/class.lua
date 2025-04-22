@@ -1,0 +1,4 @@
+---@class Spell
+---@field power number
+---@field type string
+---@field recharge number
