@@ -1,4 +1,9 @@
 ---@class Spell
 ---@field power number
----@field type string
 ---@field recharge number
+---@field status Status
+
+---@class Status
+---@field name string
+---@field dpt number
+---@field chance number
